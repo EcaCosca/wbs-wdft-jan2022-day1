@@ -1,0 +1,15 @@
+h1 {
+    color: aquamarine;
+}
+
+p {
+    background-color: green ;
+}
+
+.p-tag-class {
+    background-color: yellow ;
+}
+
+#p-tag-id {
+    background-color: red ;
+}
